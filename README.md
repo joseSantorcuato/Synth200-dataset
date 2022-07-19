@@ -31,12 +31,4 @@ Licencia GPL
 
 
 
-@misc{github,
-  author={José Luis Santorcuato T},
-  title={synth200-dataset,
-  year={2020},
-  url={https://github.com/joseSantorcuato/synth200-dataset/},
-}
-
-
 
