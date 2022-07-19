@@ -7,11 +7,20 @@ Dataset para el reconocimiento de sintetizadores.
 
 
 
-## Listas
+## Archivos
+```
+140 imágenes de entrenamiento + anotaciones
+```
 
-*[140 imágenes de entrenamiento + anotaciones]
-*[40 imágenes validación + anotaciones]
-*[20 imágenes de test + anotaciones]
+```
+40 imágenes validación + anotaciones
+```
+
+```
+20 imágenes de test + anotaciones
+```
+
+
 
 
 
