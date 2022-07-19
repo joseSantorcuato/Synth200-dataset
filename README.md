@@ -4,6 +4,7 @@
 
 Dataset para el reconocimiento de sintetizadores.
 200 imágenes de sintetizadores más sus anotaciones.
+100 completamente únicas, 200 por aumentación.
 
 
 
