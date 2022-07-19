@@ -4,7 +4,7 @@
 
 Dataset para el reconocimiento de sintetizadores.
 200 imágenes de sintetizadores más sus anotaciones.
-100 completamente únicas, 200 por aumentación.
+100 completamente únicas, 100 más por aumentación.
 
 Licencia GPL
 
@@ -12,17 +12,11 @@ Licencia GPL
 
 
 ## Archivos
-```
-140 imágenes de entrenamiento + anotaciones
-```
 
-```
-40 imágenes validación + anotaciones
-```
-
-```
-20 imágenes de test + anotaciones
-```
+Markup :  > Datsset
+          >> 140 imágenes de entrenamiento + anotaciones
+          >> 40 imágenes validación + anotaciones
+          >> 20 imágenes de test + anotaciones
 
 
 
