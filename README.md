@@ -3,8 +3,8 @@
 
 
 Dataset para el reconocimiento de sintetizadores. para entrenar o generar modelo.
-200 imágenes de sintetizadores más sus anotaciones.
-100 completamente únicas, 100 más por aumentación.
+- 200 imágenes de sintetizadores más sus anotaciones.
+- 100 completamente únicas, 100 más por aumentación.
 
 Licencia GPL
 
