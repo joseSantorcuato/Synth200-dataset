@@ -3,7 +3,7 @@
 
 
 Dataset para el reconocimiento de sintetizadores.
-200 imágenes de sintetizadores.
+200 imágenes de sintetizadores más sus anotaciones.
 
 
 
