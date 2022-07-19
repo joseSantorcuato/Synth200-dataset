@@ -1,0 +1,5 @@
+names:
+- synthesizer
+nc: 1
+train: synth199-1/train/images
+val: synth199-1/valid/images
